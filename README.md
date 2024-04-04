@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/kiranjorwekar/Linear-Regression-using-California-Dataset/blob/main/Linear_Regression_using_CalHousingData.jpg)
+![Logo](https://github.com/kiranjorwekar/Feature-Selection-on-the-California-Housing-Dataset/blob/main/Logo_featureSelection.png)
 
 
 # Project Title - "Feature Selection & Dimensionality on the California Housing Dataset".
@@ -52,6 +52,8 @@ As you can see from the above image, the model has signifcant amount of error in
 
 The above quant results show that  R2 Score is 0.611 & MSE = 0.530
 ## Key Takeaways
+
+![Logo](https://github.com/kiranjorwekar/Feature-Selection-on-the-California-Housing-Dataset/blob/main/feature_selection.png)
 
 Based on the  feature selections and finding dimensionality reduction, we need to first find the relation between these column datasets. There 2 methids so far we have studied here as follows - 
 a. Filter Based Methods - choose the most valuable information from a large dataset. It is required some pre-processing steps with context of the columns relations within that dataset.
