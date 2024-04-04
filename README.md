@@ -40,17 +40,16 @@ It can be downloaded/loaded using the 'sklearn.datasets.fetch_california_housing
 - Target: Median house value for California districts, expressed in hundreds of thousands of dollars ($100,000)
 
 ## Evaluation and Results
-![alt text](https://github.com/123ofai/Demo-Project-Repo/blob/main/results/test.png)
 
 As you can see from the above image, the model has signifcant amount of error in <x, y, z regions>
 
 | Metric        | Value         |
 | ------------- | ------------- |
-| R2 Score      | 0.6117200789  |
-| MSE           | 0.530587150  |
+| R2 Score      | 0.5880884952  |
+
  
 
-The above quant results show that  R2 Score is 0.611 & MSE = 0.530
+The above quant results show that  R2 Score is 0.58808 after we tried selecting 8 columns or 5 columns dataset.
 ## Key Takeaways
 
 ![Logo](https://github.com/kiranjorwekar/Feature-Selection-on-the-California-Housing-Dataset/blob/main/feature_selection.png)
